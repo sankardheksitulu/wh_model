@@ -13,6 +13,9 @@ torch>=1.6.0
 torchvision>=0.7.0
 tqdm>=4.41.0
 
+voila>=0.1.8
+bqplot
+
 # logging -------------------------------------
 # wandb
 
